@@ -1,3 +1,4 @@
+
 # PickHack_Project-
 
 ## About our project
@@ -19,10 +20,10 @@
 ## Books
 - In the book section ,we have included some interesting books where people can get to know and leran more by going to the website.
 
-Banner of our project!
+## Banner of our project!
+![poster1](https://user-images.githubusercontent.com/58478495/114307258-72007200-9afc-11eb-8450-6a500b269ad3.png)
 
-
-Our Prototype!
-
+## Our Prototype!
+- https://www.figma.com/proto/MbFlkainRLfvacu3H9kBh5/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1
 
 
